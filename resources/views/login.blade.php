@@ -21,3 +21,8 @@
                         <label class="form-label">Password</label>
                         <input type="password" class="form-control" autocomplete="new-password" placeholder="password">
             </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
